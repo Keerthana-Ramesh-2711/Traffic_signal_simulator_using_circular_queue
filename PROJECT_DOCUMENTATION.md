@@ -24,9 +24,9 @@
 
 | S.No | Name      | Register Number |
 |------|-----------|-----------------|
-| 1.   | Bhavana R | 24MIS0452       |
-| 2.   | Anisha M  | 24MIS0565       |
-| 3.   | Neha G    | 24MIS0178       |
+| 1.   | Vaishali B| 24MIS0378       |
+| 2.   | Kanishka  | 24MIS0314       |
+| 3.   | Keerthana | 24MIS0192       |
 
 ---
 
